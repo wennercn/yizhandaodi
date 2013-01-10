@@ -8,3 +8,5 @@ yizhandaodi
 1. 前言
 2. 前期准备(python , djanjo)
 3. 数据库设计
+
+    select * from table
